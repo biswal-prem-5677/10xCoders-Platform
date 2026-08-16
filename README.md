@@ -82,3 +82,8 @@ The client will start on port 5173 (usually). Open [http://localhost:5173](http:
 - Online Code Editor (Judge0 Integration)
 - User Profiles & Dashboards
 - File Uploads
+
+
+## Live Demo
+
+https://10xcoders-platform.netlify.app/
